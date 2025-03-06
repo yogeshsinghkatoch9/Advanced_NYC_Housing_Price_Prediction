@@ -61,7 +61,7 @@ Prerequisites
 Installation Steps
 	1.	Clone the Repository:
 
-git clone https://github.com/yourusername/skyline-ensemble.git
+git clone https://github.com/yogeshsinghkatoch9/skyline-ensemble.git
 cd skyline-ensemble
 
 
